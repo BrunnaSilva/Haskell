@@ -47,6 +47,7 @@ module Main where
        print (heightTree (insertList lista))
        print (numberElemTree (insertList lista))
        
+       
        print ("----- -----")
        print ("teste: imprimir árvore")
        print (insertList lista )
